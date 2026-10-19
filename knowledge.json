@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "Go to the login page and click Forgot Password. Then follow the instructions sent to your email."
+  },
+  {
+    "question": "How do I cancel my subscription?",
+    "answer": "Go to Settings, then Billing, and select Cancel Subscription."
+  },
+  {
+    "question": "How do I invite a team member?",
+    "answer": "Go to Team Members and click Invite Member."
+  },
+  {
+    "question": "How do I create a project?",
+    "answer": "Go to Projects and click Create Project."
+  },
+  {
+    "question": "How do I disable notifications?",
+    "answer": "Go to Settings, then Notifications, and disable the notifications you do not want."
+  },
+  {
+    "question": "How do I update my payment method?",
+    "answer": "Go to Settings, then Billing, and click Update Payment Method."
+  }
+]
